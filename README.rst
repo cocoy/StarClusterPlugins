@@ -21,3 +21,7 @@ Contributors
 ============
 
  * Austin Godber <godber 'at' uberhip.com>
+
+ * nfsshare plugin from scrappythekangaroo
+ * s3cmd plugin from Angel Pizarro
+
